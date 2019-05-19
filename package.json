@@ -1,5 +1,5 @@
 {
-  "name": "Hello-World",
+  "name": "hello-world",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://dmtuan.github.io/hello-world",
+  "homepage": "https://dmtuan.github.io/hello-world/",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
